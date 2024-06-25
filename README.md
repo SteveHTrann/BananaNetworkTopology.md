@@ -6,7 +6,10 @@ Pending Update to Profile in Progress (as of 6/16/2024)
 NEXT UPDATE PLANS:
 
 I am planning on adding VLANS to the network so the Switch's SVI will be the one to hold onto the IP addresses for the switch.
-   
+
+Day 3 (6/24/2024)
+
+Haven't had much time to work on this project, but I've noticed that I accidentally used a broadcast ip for one of the host devices (router0) therefore I switched it to be one IP lower (ip address 192.168.0.254 255.255.255.0 is now ip address 192.168.0.253 255.255.255.0)
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -65,7 +68,7 @@ ________________________________________________________________________________
 
 Day 1 (6/5/2024): 
 
-Scenario: A small startup (Banana) is trying to build its network infrastructure to eventually be able to scale up one day to be the best Tech company in the world.  Below is my update as I make tweaks and edit every day using Cisco Packet Tracer utilizing what I learn from obtaining my CCNA and continued self-education to build out the Diagram of this network topology.
+Scenario: A small startup (Banana) is trying to build its network infrastructure to eventually be able to scale up one day to be the best Tech company in the world.  Below is my update as I make tweaks and edits using Cisco Packet Tracer utilizing what I learn from obtaining my CCNA and continued self-education to build out the Diagram of this network topology.
 
 Note: So far, the notes I leave will be very brief and not as full-out and fleshly Documented as I'm still working on building out this project.
 
